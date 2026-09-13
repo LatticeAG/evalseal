@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "evalseal"
+version = "1.0.0.dev1"
+description = "EvalSeal — fixed adversarial suites, deterministic banded grading, verifiable attestation packs (protocol evalseal/1, simulation profile)"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = ["cryptography>=41"]
+
+[project.scripts]
+evalseal = "evalseal.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["evalseal*"]
+
+[tool.pytest.ini_options]
+testpaths = ["../tests/conformance"]

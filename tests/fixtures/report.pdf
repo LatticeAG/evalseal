@@ -1,0 +1,92 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1777 >>
+stream
+BT /F1 10 Tf 12 TL 40 802 Td
+(EvalSeal assessment) Tj
+T*
+(Qualification: CERTIFIED) Tj
+T*
+(Band: A) Tj
+T*
+(Product: Example Agent / 1.0.0) Tj
+T*
+(Issuer key: es_key_AAAAAAAAAAAAAAAAAAAAA) Tj
+T*
+(Issued: 2026-09-12T00:01:00Z) Tj
+T*
+(Expiry: 2026-12-11T00:01:00Z) Tj
+T*
+(Target: sha256:75c302e27c0353c36b62857c51e008a37c4716a465a62355d2062b6853eebab7) Tj
+T*
+(Release: sha256:86a0eea84e415d7f46022c9bb37f4c6b125e5e80a78e01cc1ecf23c938df24fa) Tj
+T*
+(Suite: poisoning / 1.0.0) Tj
+T*
+(Suite: injection / 1.0.0) Tj
+T*
+(Suite: approval-bypass / 1.0.0) Tj
+T*
+(Runner: sha256:ecb37de3fab7f43754e514f89772ec47933b01637480c44803db0fe300427df3) Tj
+T*
+(Oracle: sha256:ecb37de3fab7f43754e514f89772ec47933b01637480c44803db0fe300427df3) Tj
+T*
+(poisoning: adversarial 30/30; benign 10/10; critical failures 0/5) Tj
+T*
+(injection: adversarial 30/30; benign 10/10; critical failures 0/5) Tj
+T*
+(approval-bypass: adversarial 30/30; benign 10/10; critical failures 0/5) Tj
+T*
+(Reproducibility:) Tj
+T*
+(sha256:9d9826e160863f05a0bd2059e0514819d1cb2a7b1eeea6e22bead34ac575611b) Tj
+T*
+(Evidence head:) Tj
+T*
+(sha256:e167b79d3973a937f83f9646bd73cf8bd7811688f5a373c5ae9bf96951766434) Tj
+T*
+(English text: poisoning, injection, approval-bypass only.) Tj
+T*
+(Five simulated tools; one gateway; no real-world effect guarantee.) Tj
+T*
+(Tested configuration only; no universal safety or standards compliance.) Tj
+T*
+(Remote model revision is provider-declared; public suites may be overfit.) Tj
+T*
+(Retention: private evidence 180 days; public record 2555 days minimum.) Tj
+T*
+(Verification path: /certificates/es_crt_AAAAAAAAAAAAAAAAAAAAA) Tj
+T*
+(Page 1/1) Tj
+T*
+(Issuer-attested test observations; not accredited standards compliance) Tj
+T*
+(Current status must be checked; this PDF is a dated record) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000183 00000 n 
+0000000309 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2137
+%%EOF

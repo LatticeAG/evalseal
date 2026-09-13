@@ -1,0 +1,31 @@
+node_modules/
+dist/
+dist-test/
+.venv/
+*.tsbuildinfo
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.coverage
+
+# LatticeAG internal spec/review material — never tracked
+SPEC*.md
+*EXTREME*.md
+PROMPT*.md
+*PROMPT*
+REVIEW*.md
+FIX_PROMPT*
+SELFREVIEW*
+DRAFT*
+REPORT.md
+INTERFACES.md
+STATUS*
+
+# local dev data
+evalseal.json
+.devin/evalseal.json
+*.log
+work/
+cache/
+out/
